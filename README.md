@@ -1,4 +1,4 @@
-# Disrupt Collaboration Material
+# Disrupt Collaboration Hackathon Developer Guide #
 
 Welcome to the Disrupt Collaboration Summit 2019 and welcome at Cisco Switzerland. In this repository you will find additional information around the hackathon that will be held during the Disrupt Collaboration Summit.
 
