@@ -68,4 +68,16 @@ Here are a few learning resources you might find useful
 
 ### xAPI Primer ###
 
-TBD
+The xAPI lets you programmatically interact with our award-winning room devices. You can trigger calls, access informations such as people count or add custome widgets to the Touch10 control panel that is attached to every device. 
+
+![Room device control](res/room-devices-controls.png)
+
+To get started with xAPI have a look at the [Intro to xAPI learning lab](https://developer.cisco.com/learning/lab/collab-xapi-intro/step/1) or check out the examples and resources provided in the [dev center](https://developer.cisco.com/site/roomdevices). 
+
+Additional resources include:
+
+* [The official macro samples](https://github.com/CiscoDevNet/roomdevices-macros-samples)
+* [Even more macros and samples](https://github.com/ObjectIsAdvantag/xapi-samples)
+* A [Postman](https://www.getpostman.com/) [collection for xAPI](https://github.com/CiscoDevNet/postman-xapi)
+
+
