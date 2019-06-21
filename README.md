@@ -50,8 +50,21 @@ Your Lab Kit will include:
 We also have the [Webex Teams API](https://developer.webex.com) and [xAPI](https://developer.cisco.com/site/roomdevices/) for our Collaboration endpoints. Below you can find a quick primer and some interesting resources for both APIs.
 
 ### Webex Teams API Primer ###
+Webex Teams is a chat and collaboration platform offered by Cisco. The platform offers end-to-end encrypted direct and group messaging as well as video calling. 
 
-TBD
+Probably most relevant for you: All features of Webex Teams are exposed via a RESTful API and a variety of SDKs. 
+
+To get started with Webex Teams
+* Sign up for a [Webex Teams account](https://teams.webex.com)
+* [optional] Get a [desktop client](https://www.webex.com/team-collaboration.html)
+* Log into [developer.webex.com](https://developer.webex.com) to view the API documentation
+
+Here are a few learning resources you might find useful
+
+* A [step-by-step introduction](https://developer.cisco.com/learning/tracks/collab-cloud) into the Webex Teams API
+* The [awesome-webex](https://github.com/CiscoDevNet/awesome-webex) repository containing a bunch of examples
+* Have a look at the [iOS](https://developer.webex.com/docs/sdks/ios), [android](https://developer.webex.com/docs/sdks/android), [browser](https://developer.webex.com/docs/sdks/browser), [node.js](https://developer.webex.com/docs/sdks/node), [java](https://developer.webex.com/docs/sdks/java) or [python](http://webexteamssdk.readthedocs.io/) SDKs
+
 
 ### xAPI Primer ###
 
