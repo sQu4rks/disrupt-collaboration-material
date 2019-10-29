@@ -18,22 +18,34 @@ Here is a checklist of things that you should do prior to the event.
 
 Feeling overwhelmed by all the available technologies? Don't worry we brought Subject Matter Experts (SMEs) on site to help you with all questions that may arise.
 
-![Developer Support Team](res/developer_support_team.png)
+### Webex Teams ###
 
-## Prices and Award Categories ##
+* Phil Bellanti (pbellant@cisco.com)
+* Dirk-Jan Uittenbogaard (duittenb@cisco.com)
+
+### Webex Devices ###
+
+* Davide Grandis (dgrandis@cisco.com)
+* Roland Bellwald (rbellwal@cisco.com)
+
+## Prices, Award Categories and Jurors ##
 
 No hackathon without a competition. During the Disrupt Collaboration Hackathon you'll have the ability to win prizes in four different categories:
 
-* **Best Overall**
-* **Best for Customers**
-* **Most Innovative Usage of Webex Devices**
-* **Most Innovative Usage of Webex Teams**
+### Best Overall ###
 
-Also there would be no prices without a jury.
+* Niema Nazemi, Head of Application and Platform(Collaboration) Team at Cisco Switzerland
+* Julio Gomez, EMEAR Programmability Lead at Cisco 
 
-![Judges Part 1](res/judges_one.png)
+### Most Innovative Usage of Webex Devices ###
 
-![Judges Part 2](res/judges_two.png)
+* Lina Norton, Collaboration Systems Engineer, Cisco Switzerland
+* Loris Impinna, Collaboration Solutions Sales Specialist, Cisco Switzerland
+
+### Most Innovative Usage of Webex Teams ###
+
+* Sebastian Straube, Multicloud Engineer, Cisco Cloud Platform and Solutions Group (CPSG)
+* Alain Rymar, Collaboration Systems Engineer, Cisco Switzerland
 
 Please note that the prices are independent of each other: One team can win multiple prices.
 
