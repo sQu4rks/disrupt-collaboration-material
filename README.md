@@ -30,7 +30,7 @@ Feeling overwhelmed by all the available technologies? Don't worry we brought Su
 
 ## Prices, Award Categories and Jurors ##
 
-No hackathon without a competition. During the Disrupt Collaboration Hackathon you'll have the ability to win prizes in four different categories:
+No hackathon without a competition. During the Disrupt Collaboration Hackathon you'll have the ability to win prizes in three different categories:
 
 ### Best Overall ###
 
