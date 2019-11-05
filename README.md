@@ -76,6 +76,7 @@ Here are a few learning resources you might find useful
 * A [step-by-step introduction](https://developer.cisco.com/learning/tracks/collab-cloud) into the Webex Teams API
 * The [awesome-webex](https://github.com/CiscoDevNet/awesome-webex) repository containing a bunch of examples
 * Have a look at the [iOS](https://developer.webex.com/docs/sdks/ios), [android](https://developer.webex.com/docs/sdks/android), [browser](https://developer.webex.com/docs/sdks/browser), [node.js](https://developer.webex.com/docs/sdks/node), [java](https://developer.webex.com/docs/sdks/java) or [python](http://webexteamssdk.readthedocs.io/) SDKs
+* [PyAdaptiveCards](https://github.com/CiscoSE/pyadaptivecards) to build adaptive cards in native python.
 
 
 ### xAPI Primer ###
